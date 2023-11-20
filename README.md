@@ -1,5 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nichiporenko&show_icons=true&&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nichiporenko&show_icons=true)
 <!--
 **nichiporenko/nichiporenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
